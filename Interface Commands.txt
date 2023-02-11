@@ -1,6 +1,6 @@
 pyuic5 MétéoApp.ui -o MeteoApp.py
 pip install pyinstaller
-pyinstaller --onefile -w name file
+pyinstaller --onefile -w MétéoApp
 
 
 https://www.meteoart.com/africa/tunisia/sousse?page=today
